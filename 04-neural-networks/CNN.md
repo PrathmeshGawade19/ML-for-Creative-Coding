@@ -28,7 +28,7 @@
 - [Letter Collages](http://frauzufall.de/en/2017/google-quick-draw/) by Deborah Schmidt.
 - [Face Tracking Experiment](https://www.instagram.com/p/BUU8TuQD6_v/) by Neil Mendoza.
 - [Faces of Humanity](http://project.laboiteatortue.com/facesofhumanity/) by La Boite à Tortue.
-- [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by Xinyue Yang.
+- [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by Prathmesh Gawade.
 - [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/) by Thu-Huong Ha and Nikhil Sonnad.
 - [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab) by Ian Johnson.
 
